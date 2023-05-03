@@ -19,5 +19,5 @@ function new_image()
 }
 
 function playsound(){
-	x.play();
+	x.play(bdayaudio.mp3);
 }
